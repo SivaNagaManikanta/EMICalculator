@@ -1,0 +1,57 @@
+09:44:55.831 [main] INFO  pageObjects.BasePage - *** Starting TC_001_CarLoanTest :carLoanTest ***
+09:45:01.001 [main] INFO  pageObjects.LandingPage - car loan tab clicking failed
+09:45:06.179 [main] INFO  pageObjects.LandingPage - Loan Ammount setting failed
+09:45:11.250 [main] INFO  pageObjects.LandingPage - Loan Interest setting failed
+09:45:16.310 [main] INFO  pageObjects.LandingPage - Loan Tenure setting failed
+09:45:19.986 [main] ERROR pageObjects.BasePage - TC_001_CarLoanTest :carLoanTest Failed due to org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.id: loantermsteps
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: RemoteWebDriver
+09:46:25.171 [main] INFO  pageObjects.BasePage - *** Starting TC_001_CarLoanTest :carLoanTest ***
+09:46:34.386 [main] INFO  pageObjects.LandingPage - car loan tab clicked
+09:46:34.917 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+09:46:35.094 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+09:46:35.485 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+09:46:38.585 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+09:46:38.623 [main] INFO  pageObjects.LandingPage - Total Interest Value got successfully
+09:46:38.657 [main] INFO  pageObjects.LandingPage - Total Payment Value got successfully
+09:46:38.658 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+09:46:42.311 [main] INFO  pageObjects.LandingPage -  Yearly Data From Table extracted successfully
+09:46:44.585 [main] INFO  pageObjects.LandingPage - Year Table Expanded
+09:46:51.339 [main] INFO  pageObjects.LandingPage - Monthly Data From Table extracted successfully
+09:46:54.351 [main] INFO  pageObjects.BasePage - *** Finishing TC_001_CarLoanTest :carLoanTest ***
+09:46:54.972 [main] INFO  pageObjects.BasePage - *** Starting TC_002_HomeLoanDDT :homeLoanTest ***
+09:46:55.079 [main] INFO  pageObjects.LandingPage - home loan tab clicked
+09:46:55.476 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+09:46:55.725 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+09:46:56.026 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+09:46:59.106 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+09:46:59.135 [main] INFO  pageObjects.LandingPage - Total Interest Value got successfully
+09:46:59.162 [main] INFO  pageObjects.LandingPage - Total Payment Value got successfully
+09:46:59.162 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+09:47:00.965 [main] INFO  pageObjects.LandingPage -  Yearly Data From Table extracted successfully
+09:47:03.169 [main] INFO  pageObjects.LandingPage - Year Table Expanded
+09:47:08.835 [main] INFO  pageObjects.LandingPage - Monthly Data From Table extracted successfully
+09:47:11.843 [main] INFO  pageObjects.BasePage - *** Finishing TC_002_HomeLoanDDT :homeLoanTest ***
+09:47:12.095 [main] INFO  pageObjects.BasePage - *** Starting TC_002_HomeLoanDDT :homeLoanTest ***
+09:47:12.228 [main] INFO  pageObjects.LandingPage - home loan tab clicked
+09:47:12.670 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+09:47:12.979 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+09:47:13.382 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+09:47:16.473 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+09:47:16.473 [main] INFO  pageObjects.BasePage - validation Checking Failed
+09:47:16.681 [main] INFO  pageObjects.BasePage - *** Starting TC_002_HomeLoanDDT :homeLoanTest ***
+09:47:16.772 [main] INFO  pageObjects.LandingPage - home loan tab clicked
+09:47:17.036 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+09:47:17.176 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+09:47:17.535 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+09:47:20.616 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+09:47:20.616 [main] INFO  pageObjects.BasePage - validation Checking Failed
+09:47:21.000 [main] INFO  pageObjects.BasePage - *** Starting TC_003_LoanCalculatorDDT :LoanCalculatorTest ***
+09:47:21.107 [main] INFO  pageObjects.LandingPage - MenuItem Calculator clicked
+09:47:21.958 [main] INFO  pageObjects.LandingPage - Loan Calculator clicked
+09:47:27.228 [main] INFO  pageObjects.LoanCalculatorPage - Loan Ammount Input setted successfully
+09:47:28.580 [main] INFO  pageObjects.LoanCalculatorPage - Loan Interest Input setted successfully
+09:47:29.939 [main] INFO  pageObjects.LoanCalculatorPage - Loan Tenure Input setted successfully
+09:47:31.307 [main] INFO  pageObjects.LoanCalculatorPage - Fees Input setted successfully

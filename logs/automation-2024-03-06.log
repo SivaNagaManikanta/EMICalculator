@@ -1,0 +1,57 @@
+10:34:18.450 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+10:34:21.609 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+10:34:21.663 [main] INFO  pageObjects.LandingPage - Total Interest Value got successfully
+10:34:21.729 [main] INFO  pageObjects.LandingPage - Total Payment Value got successfully
+10:34:21.729 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+10:34:21.748 [main] INFO  pageObjects.LandingPage - Yearly Data extraction From Table failed
+10:34:24.386 [main] INFO  pageObjects.LandingPage - Year Table Expanded
+10:34:24.396 [main] INFO  pageObjects.LandingPage - Monthly Data extraction From Table failed
+10:34:27.416 [main] INFO  pageObjects.BasePage - *** Finishing TC_001_CarLoanTest :carLoanTest ***
+10:34:29.359 [main] INFO  pageObjects.BasePage - *** Starting TC_002_HomeLoanDDT :homeLoanTest ***
+10:34:29.633 [main] INFO  pageObjects.LandingPage - home loan tab clicked
+10:34:30.353 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+10:34:30.746 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+10:34:31.228 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+10:34:34.308 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+10:34:34.349 [main] INFO  pageObjects.LandingPage - Total Interest Value got successfully
+10:34:34.385 [main] INFO  pageObjects.LandingPage - Total Payment Value got successfully
+10:34:34.385 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+10:34:34.392 [main] INFO  pageObjects.LandingPage - Yearly Data extraction From Table failed
+10:34:36.735 [main] INFO  pageObjects.LandingPage - Year Table Expanded
+10:34:36.744 [main] INFO  pageObjects.LandingPage - Monthly Data extraction From Table failed
+10:34:39.757 [main] INFO  pageObjects.BasePage - *** Finishing TC_002_HomeLoanDDT :homeLoanTest ***
+10:34:40.047 [main] INFO  pageObjects.BasePage - *** Starting TC_002_HomeLoanDDT :homeLoanTest ***
+10:34:40.166 [main] INFO  pageObjects.LandingPage - home loan tab clicked
+10:34:40.652 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+10:34:41.052 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+10:34:41.533 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+10:34:44.625 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+10:34:44.625 [main] INFO  pageObjects.BasePage - validation Checking Failed
+10:34:44.896 [main] INFO  pageObjects.BasePage - *** Starting TC_002_HomeLoanDDT :homeLoanTest ***
+10:34:45.022 [main] INFO  pageObjects.LandingPage - home loan tab clicked
+10:34:45.450 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+10:34:45.795 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+10:34:46.286 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+10:34:49.422 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+10:34:49.423 [main] INFO  pageObjects.BasePage - validation Checking Failed
+10:34:50.388 [main] INFO  pageObjects.BasePage - *** Starting TC_003_LoanCalculatorDDT :LoanCalculatorTest ***
+10:34:50.581 [main] INFO  pageObjects.LandingPage - MenuItem Calculator clicked
+10:35:38.827 [main] INFO  pageObjects.LandingPage - Loan Calculator clicked
+10:35:44.241 [main] INFO  pageObjects.LoanCalculatorPage - Loan Ammount Input setted successfully
+10:35:45.838 [main] INFO  pageObjects.LoanCalculatorPage - Loan Interest Input setted successfully
+10:35:47.370 [main] INFO  pageObjects.LoanCalculatorPage - Loan Tenure Input setted successfully
+10:35:48.989 [main] INFO  pageObjects.LoanCalculatorPage - Fees Input setted successfully
+10:35:54.698 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+10:35:59.393 [main] INFO  pageObjects.LoanCalculatorPage - Year table expand
+10:35:59.404 [main] INFO  pageObjects.LoanCalculatorPage - Monthly Data extraction From Table failed due to java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFWorkbook.getSheetIndex(String)" because "this.workbook" is null
+10:35:59.405 [main] INFO  pageObjects.BasePage - *** Finishing TC_003_LoanCalculatorDDT :LoanCalculatorTest ***
+10:40:56.820 [main] INFO  pageObjects.BasePage - *** Starting TC_001_CarLoanTest :carLoanTest ***
+10:40:57.428 [main] INFO  pageObjects.LandingPage - car loan tab clicked
+10:40:57.959 [main] INFO  pageObjects.LandingPage - Loan Ammount setting done
+10:40:58.382 [main] INFO  pageObjects.LandingPage - Loan Interest setting done
+10:40:58.841 [main] INFO  pageObjects.LandingPage - Loan Tenure setting done
+10:41:01.977 [main] INFO  pageObjects.LandingPage - Emi Ammount got successfully 
+10:41:02.030 [main] INFO  pageObjects.LandingPage - Total Interest Value got successfully
+10:41:02.082 [main] INFO  pageObjects.LandingPage - Total Payment Value got successfully
+10:41:02.082 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+10:41:06.052 [main] INFO  pageObjects.LandingPage -  Yearly Data From Table extracted successfully
